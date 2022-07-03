@@ -1,0 +1,28 @@
+{
+  "name": "goit-node-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "npx nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlehPotap/goit-node-hw1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlehPotap/goit-node-hw1/issues"
+  },
+  "homepage": "https://github.com/OlehPotap/goit-node-hw1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  },
+  "dependencies": {
+    "commander": "^9.3.0"
+  }
+}
